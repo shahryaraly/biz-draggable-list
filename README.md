@@ -1,5 +1,5 @@
 # Draggable List Items Project
-### A complete project to build a monorepo project where custom kanban board can be created
+### A monorepo project to create a custom kanban board.
 
 <br>
 
