@@ -109,6 +109,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 ## Contact
-Shahriyal Ali- [linkedin](https://www.linkedin.com/in/shahryaraly/) && [mail](shahryaraly@live.com)
+Shahriyal Ali- [linkedin](https://www.linkedin.com/in/shahryaraly/) || [mail](shahryaraly@live.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
