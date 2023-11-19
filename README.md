@@ -3,6 +3,11 @@
 
 <br>
 
+# About The Project
+This project is designed to create a dynamic kanban board for various use cases e.g: tracking progress, queue management, status identification & e.t.c
+##Demo
+[![Application Demo](https://github.com/shahryaraly/biz-draggable-list/blob/main/app-flow.png?raw=true)](https://youtu.be/7hA1R6I8Zq0)
+
 # Project Highlights 
 1. Node.js
 2. Nest.js
@@ -10,10 +15,6 @@
 3. Typescript
 4. mssql 
 5. Monorepo
-
-# About The Project
-This project is designed to create a dynamic kanban board for various use cases e.g: tracking progress, queue management, status identification & e.t.c
-
 
 ## Setting Up Application & Running in local machine
 
