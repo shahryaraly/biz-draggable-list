@@ -90,6 +90,7 @@ This will run ReactJs application **localhost:3000** && will run NodeJs applicat
 - Edit a List Item
 - Delete List Item
 
+[![Application Entitiy Relationship Diagram](https://github.com/shahryaraly/biz-draggable-list/blob/main/erd-view.png?raw=true)](https://github.com/shahryaraly/biz-draggable-list/blob/main/erd-view.png?raw=true)
 
 <!-- CONTRIBUTING -->
 ## Contributing
