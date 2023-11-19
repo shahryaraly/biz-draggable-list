@@ -33,7 +33,7 @@ This project is designed to create a dynamic kanban board for various use cases 
 
 4. Install and Run ms-sq-server image for database operations
  ```bash
-docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Password@123" -p 1433:1433 --name cards -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Password@123" -p 1433:1433 --name biz-mssql -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
 ```
 
  ```bash
