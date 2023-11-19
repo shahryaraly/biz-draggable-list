@@ -78,6 +78,8 @@ This will run ReactJs application **localhost:3000** && will run NodeJs applicat
 
 ## Application design 
 
+[![Application Flow Diagram](https://github.com/shahryaraly/biz-draggable-list/blob/main/app-flow.png?raw=true)](https://github.com/shahryaraly/biz-draggable-list/blob/main/app-flow.png?raw=true)
+
 1. **List**
 **Component** : renders the list which is tightly coupled with GET API "/api/v1/biz-draggable-list/list" which is binded with database table **list** under schema **draggablelist**.</br>below actions applicable for subject componenet.
 
