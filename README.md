@@ -47,7 +47,6 @@ docker start biz-mssql
 **./resources/draggable-list.sql**
 
 7. Install nodejs 18.18.2 version in working machine
-  </br>
  [node.js](https://nodejs.org/en/blog/release/v18.18.2)
 
 8. Clone project in your workspace directory by executing below command in shell/cmd
