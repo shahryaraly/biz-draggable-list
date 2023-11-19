@@ -7,7 +7,7 @@
 This project is designed to create a dynamic kanban board for various use cases e.g: tracking progress, queue management, status identification & e.t.c
 </br>
 ## Click below to play a Demo
-[![Application Demo](https://github.com/shahryaraly/biz-draggable-list/blob/main/app-flow.png?raw=true)](https://youtu.be/7hA1R6I8Zq0)
+[![Application Demo](https://github.com/shahryaraly/biz-draggable-list/blob/main/ui-view.png?raw=true)](https://youtu.be/7hA1R6I8Zq0)
 
 # Project Highlights 
 1. Node.js
