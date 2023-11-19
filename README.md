@@ -22,8 +22,7 @@ This project is designed to create a dynamic kanban board for various use cases 
 #### Prerequisites
  
 1. Download visual studio code or any JS supported IDE in working machine
- </br>
- [vs-code](https://code.visualstudio.com/download)
+  [vs-code](https://code.visualstudio.com/download)
 
 2. Download Git in working machine
  [git](https://git-scm.com/downloads)
